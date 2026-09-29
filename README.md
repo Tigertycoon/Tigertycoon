@@ -10,6 +10,7 @@ Based in Germany. Open to **C#/.NET, full-stack and Unity/XR development roles**
 
 - **[Workshop Learning Platform](https://github.com/Tigertycoon/workshop-learning-platform)** — A React/TypeScript, Express and SQLite application for workshop chapters, learner progress, submissions and instructor feedback, with a local demo using fictional accounts.
 - **[Whisper Vulkan Transcriber](https://github.com/Tigertycoon/whisper-vulkan-transcriber)** — A C#/.NET command-line application integrating local speech transcription, Vulkan inference, separate audio tracks and optional Python speaker labeling.
+- **[Material Maker MCP](https://github.com/Tigertycoon/material-maker-mcp)** — A Python MCP host and extended Godot bridge for validated material graphs, real render previews, state-restoring variations and verified exports.
 - **[GroupAR](https://github.com/Tigertycoon/groupar)** — An AR content-pipeline prototype connecting a Unity player, a Node.js API and a TypeScript media worker, with dynamic image libraries and versioned content manifests.
 
 ## Unity, Games & XR
